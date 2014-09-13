@@ -7,3 +7,5 @@ F:\Dev\Git\FtpSync\FTPSync\FTPSyncWinConsole\FTPSyncWinConsole\obj\Debug\FTPSync
 F:\Dev\Git\FtpSync\FTPSync\FTPSyncWinConsole\FTPSyncWinConsole\obj\Debug\FTPSyncWinConsole.exe
 F:\Dev\Git\FtpSync\FTPSync\FTPSyncWinConsole\FTPSyncWinConsole\obj\Debug\FTPSyncWinConsole.pdb
 F:\Dev\Git\FtpSync\FTPSync\FTPSyncWinConsole\FTPSyncWinConsole\obj\Debug\FTPSyncWinConsole.FTPSync.resources
+F:\Dev\Git\FtpSync\FTPSync\FTPSyncWinConsole\FTPSyncWinConsole\bin\Debug\System.Net.FtpClient.dll
+F:\Dev\Git\FtpSync\FTPSync\FTPSyncWinConsole\FTPSyncWinConsole\bin\Debug\System.Net.FtpClient.xml
