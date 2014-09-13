@@ -2,8 +2,8 @@ F:\Dev\Git\FtpSync\FTPSync\FTPSyncWinConsole\FTPSyncWinConsole\bin\Debug\FTPSync
 F:\Dev\Git\FtpSync\FTPSync\FTPSyncWinConsole\FTPSyncWinConsole\bin\Debug\FTPSyncWinConsole.exe
 F:\Dev\Git\FtpSync\FTPSync\FTPSyncWinConsole\FTPSyncWinConsole\bin\Debug\FTPSyncWinConsole.pdb
 F:\Dev\Git\FtpSync\FTPSync\FTPSyncWinConsole\FTPSyncWinConsole\obj\Debug\FTPSyncWinConsole.csprojResolveAssemblyReference.cache
-F:\Dev\Git\FtpSync\FTPSync\FTPSyncWinConsole\FTPSyncWinConsole\obj\Debug\FTPSyncWinConsole.Form1.resources
 F:\Dev\Git\FtpSync\FTPSync\FTPSyncWinConsole\FTPSyncWinConsole\obj\Debug\FTPSyncWinConsole.Properties.Resources.resources
 F:\Dev\Git\FtpSync\FTPSync\FTPSyncWinConsole\FTPSyncWinConsole\obj\Debug\FTPSyncWinConsole.csproj.GenerateResource.Cache
 F:\Dev\Git\FtpSync\FTPSync\FTPSyncWinConsole\FTPSyncWinConsole\obj\Debug\FTPSyncWinConsole.exe
 F:\Dev\Git\FtpSync\FTPSync\FTPSyncWinConsole\FTPSyncWinConsole\obj\Debug\FTPSyncWinConsole.pdb
+F:\Dev\Git\FtpSync\FTPSync\FTPSyncWinConsole\FTPSyncWinConsole\obj\Debug\FTPSyncWinConsole.FTPSync.resources
