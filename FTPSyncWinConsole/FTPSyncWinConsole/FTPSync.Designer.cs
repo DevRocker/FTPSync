@@ -1,6 +1,6 @@
 ﻿namespace FTPSyncWinConsole
 {
-    partial class Form1
+    partial class FTPSync
     {
         /// <summary>
         /// Variabile di progettazione necessaria.
@@ -33,20 +33,20 @@
             // 
             // btnSync
             // 
-            this.btnSync.Location = new System.Drawing.Point(53, 48);
+            this.btnSync.Location = new System.Drawing.Point(12, 12);
             this.btnSync.Name = "btnSync";
             this.btnSync.Size = new System.Drawing.Size(188, 164);
             this.btnSync.TabIndex = 0;
             this.btnSync.Text = "Sync";
             this.btnSync.UseVisualStyleBackColor = true;
             // 
-            // Form1
+            // FTPSync
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(284, 262);
+            this.ClientSize = new System.Drawing.Size(214, 191);
             this.Controls.Add(this.btnSync);
-            this.Name = "Form1";
+            this.Name = "FTPSync";
             this.Text = "Form1";
             this.ResumeLayout(false);
 

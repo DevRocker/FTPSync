@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace FTPSyncWinConsole
 {
-    public partial class Form1 : Form
+    public partial class FTPSync : Form
     {
-        public Form1()
+        public FTPSync()
         {
             InitializeComponent();
         }
