@@ -120,7 +120,6 @@
             this.Controls.Add(this.btnSync);
             this.Name = "FTPSync";
             this.Text = "FTPSync";
-            this.TransparencyKey = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
             this.ResumeLayout(false);
             this.PerformLayout();
 
