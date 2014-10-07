@@ -19,8 +19,7 @@ namespace FTPSyncWinConsole
         public const string FtpServer = "mrtesting.net84.net";
         public const string FtpUserName = "a8767344";
         public const string FtpPassword = "backup94";
-        public const string File = @"C:\Users\MrDance\Desktop\steve-steve-jobs-black-and-white-2513383-1920x1200.jpg";
-       
+        public string File { get; set; }
 
         public FTPSync()
         {
@@ -33,6 +32,20 @@ namespace FTPSyncWinConsole
             ftp.Login();
             ftp.Upload(File);
             ftp.Close();
+        }
+
+        private void btnSelectFile_Click(object sender, EventArgs e)
+        {
+            OpenFileDialog openFileDialog1 = new OpenFileDialog();
+            openFileDialog1.Multiselect = false;
+            DialogResult res = openFileDialog1.ShowDialog();
+
+            // Process input if the user clicked OK.
+            if (res == DialogResult.OK)
+            {
+
+                File = openFileDialog1.InitialDirectory + openFileDialog1.FileName;
+            }
         }
 
     }

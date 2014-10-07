@@ -36,6 +36,7 @@
             this.lblPassword = new System.Windows.Forms.Label();
             this.lblUser = new System.Windows.Forms.Label();
             this.btnConnect = new System.Windows.Forms.Button();
+            this.btnSelectFile = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnSync
@@ -97,19 +98,30 @@
             // 
             // btnConnect
             // 
-            this.btnConnect.Location = new System.Drawing.Point(12, 90);
+            this.btnConnect.Location = new System.Drawing.Point(161, 90);
             this.btnConnect.Name = "btnConnect";
-            this.btnConnect.Size = new System.Drawing.Size(262, 61);
+            this.btnConnect.Size = new System.Drawing.Size(113, 61);
             this.btnConnect.TabIndex = 8;
             this.btnConnect.Text = "Connect";
             this.btnConnect.UseVisualStyleBackColor = true;
             this.btnConnect.Click += new System.EventHandler(this.btnConnect_Click);
+            // 
+            // btnSelectFile
+            // 
+            this.btnSelectFile.Location = new System.Drawing.Point(12, 90);
+            this.btnSelectFile.Name = "btnSelectFile";
+            this.btnSelectFile.Size = new System.Drawing.Size(143, 61);
+            this.btnSelectFile.TabIndex = 9;
+            this.btnSelectFile.Text = "SelectFile";
+            this.btnSelectFile.UseVisualStyleBackColor = true;
+            this.btnSelectFile.Click += new System.EventHandler(this.btnSelectFile_Click);
             // 
             // FTPSync
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(284, 241);
+            this.Controls.Add(this.btnSelectFile);
             this.Controls.Add(this.btnConnect);
             this.Controls.Add(this.lblUser);
             this.Controls.Add(this.lblPassword);
@@ -135,6 +147,7 @@
         private System.Windows.Forms.Label lblPassword;
         private System.Windows.Forms.Label lblUser;
         private System.Windows.Forms.Button btnConnect;
+        private System.Windows.Forms.Button btnSelectFile;
     }
 }
 

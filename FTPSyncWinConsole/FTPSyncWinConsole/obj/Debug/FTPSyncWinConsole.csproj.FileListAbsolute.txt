@@ -9,3 +9,15 @@ F:\Dev\Git\FtpSync\FTPSync\FTPSyncWinConsole\FTPSyncWinConsole\obj\Debug\FTPSync
 F:\Dev\Git\FtpSync\FTPSync\FTPSyncWinConsole\FTPSyncWinConsole\obj\Debug\FTPSyncWinConsole.FTPSync.resources
 F:\Dev\Git\FtpSync\FTPSync\FTPSyncWinConsole\FTPSyncWinConsole\bin\Debug\System.Net.FtpClient.dll
 F:\Dev\Git\FtpSync\FTPSync\FTPSyncWinConsole\FTPSyncWinConsole\bin\Debug\System.Net.FtpClient.xml
+C:\development\FTPSync\FTPSyncWinConsole\FTPSyncWinConsole\bin\Debug\FTPSyncWinConsole.exe.config
+C:\development\FTPSync\FTPSyncWinConsole\FTPSyncWinConsole\obj\Debug\FTPSyncWinConsole.FTPSync.resources
+C:\development\FTPSync\FTPSyncWinConsole\FTPSyncWinConsole\obj\Debug\FTPSyncWinConsole.Properties.Resources.resources
+C:\development\FTPSync\FTPSyncWinConsole\FTPSyncWinConsole\obj\Debug\FTPSyncWinConsole.csproj.GenerateResource.Cache
+C:\development\FTPSync\FTPSyncWinConsole\FTPSyncWinConsole\obj\Debug\FTPSyncWinConsole.csprojResolveAssemblyReference.cache
+C:\development\FTPSync\FTPSyncWinConsole\FTPSyncWinConsole\bin\Debug\FTPSyncWinConsole.exe
+C:\development\FTPSync\FTPSyncWinConsole\FTPSyncWinConsole\bin\Debug\FTPSyncWinConsole.pdb
+C:\development\FTPSync\FTPSyncWinConsole\FTPSyncWinConsole\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\development\FTPSync\FTPSyncWinConsole\FTPSyncWinConsole\bin\Debug\System.Net.FtpClient.dll
+C:\development\FTPSync\FTPSyncWinConsole\FTPSyncWinConsole\bin\Debug\System.Net.FtpClient.xml
+C:\development\FTPSync\FTPSyncWinConsole\FTPSyncWinConsole\obj\Debug\FTPSyncWinConsole.exe
+C:\development\FTPSync\FTPSyncWinConsole\FTPSyncWinConsole\obj\Debug\FTPSyncWinConsole.pdb
